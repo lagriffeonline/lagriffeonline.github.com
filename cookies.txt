@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lagriffeonline.it	TRUE	/	FALSE	1999999999	90planBAK	R698933048
+www.lagriffeonline.it	TRUE	/	FALSE	1999999999	90plan	R3938641659
+

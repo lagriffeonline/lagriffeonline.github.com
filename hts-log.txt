@@ -1,0 +1,11 @@
+HTTrack3.46+libhtsjava.so.2 launched on Mon, 22 Apr 2013 16:46:27 at http://www.lagriffeonline.it/
+(httrack http://www.lagriffeonline.it/ -W -O copialagriffe -%v -s0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.46 mirror complete in 3 minutes 8 seconds : 51 links scanned, 50 files written (1083844 bytes overall) [827719 bytes received at 4402 bytes/sec], 417557 bytes transfered using HTTP compression in 35 files, ratio 31%, 2.5 requests per connection
+(No errors, 0 warnings, 0 messages)
